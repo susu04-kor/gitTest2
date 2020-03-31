@@ -6,4 +6,7 @@ public class GoodsDao {
 		System.out.println("로그인 후 상품 구매");
 	}
 	
+	public void list() {
+		System.out.println("리스트 최봉현");
+	}
 }
