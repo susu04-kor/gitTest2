@@ -9,4 +9,7 @@ public class GoodsDao {
 	public void list() {
 		System.out.println("리스트 최봉현");
 	}
+	public void update() {
+		System.out.println("업데이트 최봉현");
+	}
 }
